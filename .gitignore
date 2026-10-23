@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+.pytest_cache/
+.venv/
+*.db
+
+# Node
+node_modules/
+dist/
+
+# Environment
+.env
